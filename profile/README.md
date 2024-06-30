@@ -12,8 +12,4 @@
 -->
 
 ### We are Plugboard Labs
-
-#### Get Started
-
-`npm i plugboard`
-`bun i plugboard `
+Enabling Quantum Paradigms
